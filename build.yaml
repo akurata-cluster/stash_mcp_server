@@ -1,0 +1,5 @@
+build:
+  image: registry.app.home/cluster/stash_mcp_server
+
+deploy:
+  skip: true
